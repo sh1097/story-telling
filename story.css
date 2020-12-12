@@ -1,0 +1,52 @@
+
+.heading{
+	border-bottom:1px dotted black;
+
+	text-align: center;
+}
+
+.button{
+	color:black;
+	text-align: center;
+	margin-left: 190px;
+	margin-top:50px; 
+}
+
+
+form{
+border-radius: 20px; 
+background-color: #FFCC99;
+border-radius:10px 10px 10px 10px;
+width:60%;
+height:900px;
+margin-left: 17%;
+border-bottom:4px solid red;
+}
+
+
+
+body{
+	background-color: orange;
+
+}
+
+
+.picture1{
+	background-color: white;width:60%;margin-left: 17%;height:40%; border-radius:150px 150px 150px 150px
+}
+
+
+img{
+	padding: 2%; border-radius: 250px 250px 250px 250px; margin-left: 37%;
+}
+
+
+
+.textbox{
+	margin-left: 10%;
+
+	font-size: 25px;
+}
+
+
+
